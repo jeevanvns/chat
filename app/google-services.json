@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "865453515191",
+    "firebase_url": "https://mychat-7f241.firebaseio.com",
+    "project_id": "mychat-7f241",
+    "storage_bucket": "mychat-7f241.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865453515191:android:0baa9df5e080668c",
+        "android_client_info": {
+          "package_name": "com.editsoft.ansh.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865453515191-h0k2l1oqkjkhe291hbr1bap70vht7ba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzbYFTYDMAR2vsvuN2daxrCy8N06epFjI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
